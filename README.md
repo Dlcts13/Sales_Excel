@@ -2,12 +2,14 @@
 📊 Excel Data Analysis Project
 
 
+
 🧠 Overview
 
 This project demonstrates a complete data analysis workflow in Microsoft Excel — from raw data to final report and insights.
 It is inspired by a real-world business dataset and showcases how to handle typical analytical tasks using Excel’s core features.
 
 The goal is to simulate the role of a Data Analyst solving business problems step by step, without relying on external tools or code.
+
 
 
 🧩 Project Objectives
@@ -40,6 +42,7 @@ The goal is to simulate the role of a Data Analyst solving business problems ste
 
 
 
+
 🧰 Tools & Techniques
 
 *Microsoft Excel
@@ -55,6 +58,7 @@ The goal is to simulate the role of a Data Analyst solving business problems ste
 *Charts (Column, Line, Pie, Combo)
 
 *Data Validation
+
 
 
 
