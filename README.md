@@ -1,7 +1,7 @@
 # Sales_Excel
-
-
 📊 Excel Data Analysis Project
+
+
 🧠 Overview
 
 This project demonstrates a complete data analysis workflow in Microsoft Excel — from raw data to final report and insights.
@@ -12,51 +12,49 @@ The goal is to simulate the role of a Data Analyst solving business problems ste
 
 🧩 Project Objectives
 
-In this project, you will learn how to:
+*Approach a data analysis project systematically
 
-Approach a data analysis project systematically
+*Work with real-world data and identify 10 key business problems
 
-Work with real-world data and identify 10 key business problems
+*Perform descriptive statistics (mean, median, quartiles, range, distinct counts)
 
-Perform descriptive statistics (mean, median, quartiles, range, distinct counts)
+*Conduct exploratory data analysis (EDA) directly in Excel
 
-Conduct exploratory data analysis (EDA) directly in Excel
+*Analyze data using both formulas and pivot tables
 
-Analyze data using both formulas and pivot tables
+*Identify top/bottom performing items
 
-Identify top/bottom performing items
+*Detect anomalies and outliers
 
-Detect anomalies and outliers
+*Perform best-in-class benchmarking
 
-Perform best-in-class benchmarking
+*Prepare a comprehensive Excel report/dashboard
 
-Prepare a comprehensive Excel report/dashboard
+*Combine multiple tables (spreadsheets) for integrated analysis
 
-Combine multiple tables (spreadsheets) for integrated analysis
+*Answer open-ended business questions using data-driven insights
 
-Answer open-ended business questions using data-driven insights
+*Build and format Excel charts for visualization
 
-Build and format Excel charts for visualization
-
-Apply conditional formatting to highlight key metrics
+*Apply conditional formatting to highlight key metrics
 
 
 
 🧰 Tools & Techniques
 
-Microsoft Excel
+*Microsoft Excel
 
-Tables & Structured References
+*Tables & Structured References
 
-Formulas & Functions (AVERAGE, MEDIAN, COUNTIF, IF, etc.)
+*Formulas & Functions (AVERAGE, MEDIAN, COUNTIF, IF, etc.)
 
-Pivot Tables & Power Pivot Measures
+*Pivot Tables & Power Pivot Measures
 
-Conditional Formatting
+*Conditional Formatting
 
-Charts (Column, Line, Pie, Combo)
+*Charts (Column, Line, Pie, Combo)
 
-Data Validation
+*Data Validation
 
 
 
@@ -64,10 +62,10 @@ Data Validation
 
 The project focuses on:
 
-Identifying sales trends and performance gaps
+*Identifying sales trends and performance gaps
 
-Highlighting high- and low-performing categories
+*Highlighting high- and low-performing categories
 
-Understanding distribution patterns using descriptive statistics
+*Understanding distribution patterns using descriptive statistics
 
-Creating a clean, interactive dashboard for decision-making
+*Creating a clean, interactive dashboard for decision-making
